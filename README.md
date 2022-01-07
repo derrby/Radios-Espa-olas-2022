@@ -1,5 +1,5 @@
 # Radios-Españolas-2022
-Para Euro y American Truck
+Para American y EuroTruck2
 
 
 
